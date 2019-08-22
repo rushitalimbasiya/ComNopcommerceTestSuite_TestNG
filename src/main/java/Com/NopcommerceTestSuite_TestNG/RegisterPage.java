@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 
 public class RegisterPage extends Utils {
     LoadProp loadProp = new LoadProp();
+    String eMailAddress;
+    String emailAddress1;
     private static By _maleButton= By.cssSelector("#gender-male");//for MaleButton
     private static By _inputFirstName = By.cssSelector("#FirstName");//for  FirstName
     private static By _inputLastName = By.cssSelector("#LastName");//for Last name
@@ -20,7 +22,7 @@ public class RegisterPage extends Utils {
     private static By _inputOnRegisterButton = By.cssSelector("#register-button");//for register-button
 
 
-
+   // String eMailAddress = "abcd"+GetCurrentDateStamp()+"@yahoo.com";
 
 
     public void  maleButtMethod()
@@ -48,10 +50,11 @@ public class RegisterPage extends Utils {
     {
         selectByValueMethod(_selectYear,"1984");
     }
-    String eMailAddress = "abcd"+GetCurrentDateStamp()+"@yahoo.com";
+
     public void inputEmailMethod()
     {
-        sendKeyMethod((_inputEmail),eMailAddress);
+         eMailAddress = "abcd"+GetCurrentDateStamp()+"@yahoo.com";
+        sendKeyMethod((_inputEmail),eMailAddress );
     }
     public void inputCompanyNameMethod()
     {
@@ -84,7 +87,8 @@ public class RegisterPage extends Utils {
         selectByValueMethod(_selectDate,"10");
         selectByValueMethod(_selectMonth,"5");
         selectByValueMethod(_selectYear,"1984");
-        sendKeyMethod((_inputEmail),eMailAddress);
+        emailAddress1 = "abcd"+GetCurrentDateStamp()+"@yahoo.com";
+        sendKeyMethod((_inputEmail),emailAddress1);
         sendKeyMethod(_inputCompanyName,loadProp.getproperty("Company"));
         clickOnElement(_clickOnNewsletter);
         sendKeyMethod(_inputPassword,loadProp.getproperty("Password"));

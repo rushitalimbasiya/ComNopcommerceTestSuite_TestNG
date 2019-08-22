@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c478ce90-bed0-49b8-9687-111fa374c7b3" name="Default Changelist" comment="" />
+    <list default="true" id="c478ce90-bed0-49b8-9687-111fa374c7b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,32 +19,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/BaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+            <state relative-caret-position="325">
+              <caret line="68" column="33" lean-forward="true" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+              <folding>
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/LogoutPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/RegisterPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="97" selection-start-line="16" selection-start-column="97" selection-end-line="16" selection-end-column="97" />
+            <state relative-caret-position="223">
+              <caret line="90" column="49" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1320#1321#0" expanded="true" />
@@ -51,8 +78,6 @@
                 <element signature="e#1871#1872#0" expanded="true" />
                 <element signature="e#1912#1913#0" expanded="true" />
                 <element signature="e#1967#1968#0" expanded="true" />
-                <element signature="e#2077#2078#0" expanded="true" />
-                <element signature="e#2134#2135#0" expanded="true" />
                 <element signature="e#2181#2182#0" expanded="true" />
                 <element signature="e#2261#2262#0" expanded="true" />
                 <element signature="e#2309#2310#0" expanded="true" />
@@ -60,67 +85,6 @@
                 <element signature="e#2403#2404#0" expanded="true" />
                 <element signature="e#2481#2482#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-              <folding>
-                <element signature="e#809#810#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1042#1043#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/Utils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="84" column="98" selection-start-line="84" selection-start-column="98" selection-end-line="84" selection-end-column="98" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
-                <element signature="e#1162#1163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/BroserSelector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/BagePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Resourcer/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -152,18 +116,18 @@
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/CheckoutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/ThankYouPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/LogoutPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/GiftCardsPage.java" />
         <option value="$PROJECT_DIR$/src/test/Resourcer/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/VirtualGiftCardPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/ApparelPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/ClothingPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/BroserSelector.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/Utils.java" />
         <option value="$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java" />
       </list>
     </option>
   </component>
@@ -172,13 +136,6 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -284,6 +241,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ComDemoNopCommerce5/Demonop_5" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -307,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuite.to_verify_User_Is_Able_To_ClickonApparel_ClickOnClothing_SortByLowToHigh_Display3_ClickOnList_TakeScreenShot_AddtoComparisonCustomTshirtAndOverSizedWomenTshirt_takeAgainScreenShort_clickOnComparison_AndClearCompare">
+  <component name="RunManager" selected="TestNG.TestSuite">
     <configuration name="TestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ComNopcommerceTestSuite_TestNG" />
       <extension name="coverage">
@@ -399,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To_ClickonApparel_ClickOnClothing_SortByLowToHigh_Display3_ClickOnList_TakeScreenShot_AddtoComparisonCustomTshirtAndOverSizedWomenTshirt_takeAgainScreenShort_clickOnComparison_AndClearCompare" />
-        <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail" />
         <item itemvalue="TestNG.TestSuite" />
-        <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To_ClickOnApparel_ClickOnClothing_HighToLow_9PerPage_ClickOnList_AddComparisonCustomTshirt_OvrrsizedWomenTshirt_ProductComparisonFromGreenLineLink_AssertProductName_clearCompareList_AssertMessageNoProductForComparison" />
+        <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail" />
         <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" />
+        <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To_ClickonApparel_ClickOnClothing_SortByLowToHigh_Display3_ClickOnList_TakeScreenShot_AddtoComparisonCustomTshirtAndOverSizedWomenTshirt_takeAgainScreenShort_clickOnComparison_AndClearCompare" />
+        <item itemvalue="TestNG.TestSuite.to_verify_User_Is_Able_To_ClickOnApparel_ClickOnClothing_HighToLow_9PerPage_ClickOnList_AddComparisonCustomTshirt_OvrrsizedWomenTshirt_ProductComparisonFromGreenLineLink_AssertProductName_clearCompareList_AssertMessageNoProductForComparison" />
       </list>
     </recent_temporary>
   </component>
@@ -421,27 +380,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSuite_to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage - 2019.08.15 at 14h 36m 05s.xml">
-      <configuration name="TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage - 2019.08.15 at 17h 19m 04s.xml">
-      <configuration name="TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage - 2019.08.15 at 17h 29m 36s.xml">
-      <configuration name="TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite - 2019.08.15 at 17h 37m 33s.xml">
-      <configuration name="TestSuite" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite_to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail - 2019.08.15 at 17h 42m 34s.xml">
-      <configuration name="TestSuite.to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite - 2019.08.15 at 17h 44m 33s.xml">
-      <configuration name="TestSuite" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestSuite - 2019.08.15 at 17h 47m 04s.xml">
-      <configuration name="TestSuite" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestSuite - 2019.08.15 at 17h 49m 16s.xml">
       <configuration name="TestSuite" configurationId="TestNG" />
     </history-entry>
@@ -450,6 +388,27 @@
     </history-entry>
     <history-entry file="TestSuite_to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail - 2019.08.21 at 17h 16m 07s.xml">
       <configuration name="TestSuite.to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite - 2019.08.22 at 13h 30m 20s.xml">
+      <configuration name="TestSuite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage - 2019.08.22 at 13h 41m 36s.xml">
+      <configuration name="TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage - 2019.08.22 at 13h 44m 26s.xml">
+      <configuration name="TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail - 2019.08.22 at 13h 51m 31s.xml">
+      <configuration name="TestSuite.to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage - 2019.08.22 at 14h 00m 53s.xml">
+      <configuration name="TestSuite.to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite_to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail - 2019.08.22 at 14h 01m 59s.xml">
+      <configuration name="TestSuite.to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuite - 2019.08.22 at 14h 03m 42s.xml">
+      <configuration name="TestSuite" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -469,7 +428,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -513,18 +472,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.028744327" />
     </layout-to-restore>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ComNopcommerceTestSuite_TestNG$TestSuite.ic" NAME="TestSuite Coverage Results" MODIFIED="1565542295269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -603,21 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="33" column="109" selection-start-line="33" selection-start-column="109" selection-end-line="33" selection-end-column="135" />
-          <folding>
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/GiftCardsPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -633,17 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="39" column="73" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/LogoutPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,13 +635,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20190921050941name.jpg" />
     <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20190921050908name.jpg" />
     <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20191621051605name.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20194021054059name.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -788,10 +702,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/LogoutPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/RegisterPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="97" selection-start-line="16" selection-start-column="97" selection-end-line="16" selection-end-column="97" />
+        <state relative-caret-position="223">
+          <caret line="90" column="49" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1320#1321#0" expanded="true" />
@@ -802,14 +728,56 @@
             <element signature="e#1871#1872#0" expanded="true" />
             <element signature="e#1912#1913#0" expanded="true" />
             <element signature="e#1967#1968#0" expanded="true" />
-            <element signature="e#2077#2078#0" expanded="true" />
-            <element signature="e#2134#2135#0" expanded="true" />
             <element signature="e#2181#2182#0" expanded="true" />
             <element signature="e#2261#2262#0" expanded="true" />
             <element signature="e#2309#2310#0" expanded="true" />
             <element signature="e#2359#2360#0" expanded="true" />
             <element signature="e#2403#2404#0" expanded="true" />
             <element signature="e#2481#2482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Com/NopcommerceTestSuite_TestNG/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+          <folding>
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20192922012922name.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20192922012920name.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20190322020307name.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/20190322020305name.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/to_verify_User_Is_Able_To_Register_And_Logout_And_LogIn_And_Checking_Accont_Holders_Detail.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resourcer/ScreenShot/to_verify_User_Is_Able_To__Register_And_Logout_And_LogIn_AddingVirtualGiftCardInCart_AfterFillingAllPersonalDetail_SendEmailFriendSend_And_assertFinalMessage.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Com/NopcommerceTestSuite_TestNG/TestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="68" column="33" lean-forward="true" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+          <folding>
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
           </folding>
         </state>
       </provider>

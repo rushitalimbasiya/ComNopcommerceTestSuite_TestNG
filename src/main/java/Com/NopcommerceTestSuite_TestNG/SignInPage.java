@@ -13,16 +13,18 @@ public class SignInPage extends Utils {
     private static By _clickOnAsGuest=By.xpath("//input[@value='Checkout as Guest']");//click on checkout as guest button
 
 
-    public void getUserEmailFromRegisterPageMethod()
+    public void getUserEmailFromRegisterPageMethod(String email)
     {
-        sendKeyMethod(_getUserEmilFromRegisterPage,registerPage.eMailAddress);
+        sendKeyMethod(_getUserEmilFromRegisterPage,email);
     }
     public void inputPasswordMethod()
 
     {
+
         sendKeyMethod(_inputPassword,loadProp.getproperty("Password"));
     }
     public void clickOnLOgInButtonMethod()
+
 
     {
         clickOnElement(_clickOnLOgInButton);
@@ -31,9 +33,9 @@ public class SignInPage extends Utils {
     {
         clickOnElement(_clickOnAsGuest);
     }
-    public void getUserEmilAndPasswordFromRegisterPage_Method()//enter registered email address and password and click on log in button
+    public void getUserEmilAndPasswordFromRegisterPage_Method(String email)//enter registered email address and password and click on log in button
     {
-        sendKeyMethod(_getUserEmilFromRegisterPage,registerPage.eMailAddress);
+        sendKeyMethod(_getUserEmilFromRegisterPage,email);
         sendKeyMethod(_inputPassword,loadProp.getproperty("Password"));
         clickOnElement(_clickOnLOgInButton);
 

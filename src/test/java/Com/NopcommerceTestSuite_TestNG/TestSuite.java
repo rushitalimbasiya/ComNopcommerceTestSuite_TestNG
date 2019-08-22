@@ -18,12 +18,12 @@ public class TestSuite extends BaseTest {
     GiftCardsPage giftCardsPage = new GiftCardsPage();
     VirtualGiftCardPage virtualGiftCardPage = new VirtualGiftCardPage();
 
-    // @Test
-    // public void to_verify_I_can_Get_Register_Page()
+     @Test
+     public void to_verify_I_can_Get_Register_Page()
 
-    // {
-    // homePage.clickOnRegisterLink();
-    //  }
+     {
+    homePage.clickOnRegisterLink();
+     }
 
     /* 5-www.demo.nopcommerce.com, registering on this website. Once registered it then Logout and Login
      again with registered email address checking account holder's detail is correct?
@@ -46,7 +46,7 @@ public class TestSuite extends BaseTest {
         //assert
         logoutPage.clickOnLogoutMethod();//click on logout
         homePage.clickOnLoginButtonMethod();//click on login
-        signInPage.getUserEmailFromRegisterPageMethod();//for get email
+        signInPage.getUserEmailFromRegisterPageMethod(registerPage.eMailAddress);//for get email
         signInPage.inputPasswordMethod();//for Password
         signInPage.clickOnLOgInButtonMethod();//for login button
         myAccountPage.clickOnMyAccountMethod();//click on my account link
@@ -122,7 +122,7 @@ a.	Date stamp for the unique email address.*/
         registerPage.fillngAllRegisterDetail_Method();  //fillng all register detail and click on register-button
         logoutPage.clickOnLogoutMethod();  //click on log out link
         homePage.clickOnLoginButtonMethod();  //click on log in link
-        signInPage.getUserEmilAndPasswordFromRegisterPage_Method();  // enter registered email address and password and click on log in button
+        signInPage.getUserEmilAndPasswordFromRegisterPage_Method(registerPage.emailAddress1);  // enter registered email address and password and click on log in button
         homePage.clickOnGiftCard_Method();  // click on gift card
         giftCardsPage.addVirtualGiftCardInCart_Method();  //adding a virtual gift card in the cart
         virtualGiftCardPage.inputFillingRecipienDetail_Method();  //input Recipient's Name ,Recipient's Email and Message
